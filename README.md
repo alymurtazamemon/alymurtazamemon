@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/56123405/177264981-4a5817e7-8bc8-4559-9287-36a4cf90d7b9.png">
+<img src="https://user-images.githubusercontent.com/56123405/177948825-cb6ca0f0-5b86-45eb-b896-a2710c87e47a.png">
 
 <h1 align="center">Hi 👋, My name is Ali Murtaza</h1>
 <h3 align="center">I am a Software Engineer & working as a Full Stack Blockchain Developer.</h3>
