@@ -23,7 +23,7 @@
 
 - 🤝 I am looking to meet with **Builders**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ali-thegilfoyle](https://github.com/ali-thegilfoyle)
+- 👨‍💻 All of my projects are available at [https://github.com/alymurtazamemon?tab=repositories](https://github.com/alymurtazamemon?tab=repositories)
 
 - 💬 Ask me about **Solidity, Security & Auditing, DAOs, DeFi, NFTs, Smart Contracts, Ethers.js, Hardhat, Flutter, Dart.**
 
