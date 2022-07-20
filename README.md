@@ -37,7 +37,7 @@
 
 NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-thegilfoyle&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="ali-thegilfoyle" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alymurtazamemon&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="alymurtazamemon" align="right">
 
 <h3 align="left">Programming Lanugages I have work with:</h3>
 <p align="left">
@@ -98,12 +98,12 @@ NOTE: Top Languages does not indicate my skill level or anything like that; it's
 <br>
 
 <p align="center">
-<a href="https://github.com/ali-thegilfoyle?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=ali-thegilfoyle&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="ali-thegilfoyle github-readme-stats"/></a>
-<a href="https://github.com/ali-thegilfoyle?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=ali-thegilfoyle&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="ali-thegilfoyle github-readme-streak-stats"/></a>
+<a href="https://github.com/alymurtazamemon?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=alymurtazamemon&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="alymurtazamemon github-readme-stats"/></a>
+<a href="https://github.com/alymurtazamemon?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=alymurtazamemon&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="alymurtazamemon github-readme-streak-stats"/></a>
 </p>
 
 <p align="center">
     <a href="">
-        <img src="https://activity-graph.herokuapp.com/graph?username=ali-thegilfoyle&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="ali-thegilfoyle activity graph">
+        <img src="https://activity-graph.herokuapp.com/graph?username=alymurtazamemon&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="alymurtazamemon activity graph">
     </a>
 </p>
