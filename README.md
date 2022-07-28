@@ -39,6 +39,11 @@ NOTE: Top Languages does not indicate my skill level or anything like that; it's
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alymurtazamemon&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="alymurtazamemon" align="right">
 
+<h3 align="left">Blockchains</h3>
+<p align="left">
+    <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="solidity"/> </a>
+</p>
+
 <h3 align="left">Programming Lanugages I have work with:</h3>
 <p align="left">
   <a href="https://docs.soliditylang.org/en/latest/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="solidity"/> </a>
