@@ -83,6 +83,11 @@ NOTE: Top Languages does not indicate my skill level or anything like that; it's
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/> </a>
 </p>
 
+<h3 align="left">Off-Chain</h3>
+<p align="left">
+  <a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" alt="mongoDB"/> </a>
+</p>
+
 <h3 align="left">Others</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
