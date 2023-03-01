@@ -125,3 +125,19 @@ NOTE: Top Languages does not indicate my skill level or anything like that; it's
         <img src="https://activity-graph.herokuapp.com/graph?username=alymurtazamemon&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="alymurtazamemon activity graph">
     </a>
 </p>
+
+---
+
+## Blockchain Courses - Challenges NFTs & Certifications
+
+#### Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course By Patrick Collins
+
+#### (Click On Them in order to Verify - Address => 0x640Ed06a77eCBc74A34C5B7d927Fc311062f008f)
+
+<p align="center">
+<a href="https://opensea.io/assets/arbitrum/0xaacb0b62aeb7db938f12161da0e45fc3b2b34179/229"><img src="https://user-images.githubusercontent.com/56123405/222080407-fbae8c64-ae36-4959-8f62-ddf37c18b27d.png" width="33%"></a>
+<a href="https://opensea.io/assets/arbitrum/0xa457a0f9b6edbec66941d7ed1d4d4834330abf52/150"><img src="https://user-images.githubusercontent.com/56123405/222081549-dd7aa920-dcd9-428c-80cc-9185feb99069.png" width="33%"></a>
+<a href="https://opensea.io/assets/arbitrum/0xb29ea9ad260b6dc980513bba29051570b2115110/79"><img src="https://user-images.githubusercontent.com/56123405/222082156-55ed0441-4d0c-4d88-b52e-ac0e2e6bb311.png" width="33%"></a>
+<a href="https://opensea.io/assets/arbitrum/0xda4a7da4397414c089062cf6256989d2c29e31c9/56"><img src="https://user-images.githubusercontent.com/56123405/222082704-2edf8dbb-16d8-4ae2-a6ec-5c0a7071cd5c.png" width="33%"></a>
+<a href="https://opensea.io/assets/arbitrum/0x9e9a4e58ddc9483d241afc9a028e89bd9b9fa683/68"><img src="https://user-images.githubusercontent.com/56123405/222082963-3cda057e-64da-44e1-a8ef-88e17ad5fd9d.png" width="33%"></a>
+</p>
