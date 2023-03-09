@@ -141,3 +141,8 @@ NOTE: Top Languages does not indicate my skill level or anything like that; it's
 <a href="https://opensea.io/assets/arbitrum/0xda4a7da4397414c089062cf6256989d2c29e31c9/56"><img src="https://user-images.githubusercontent.com/56123405/222082704-2edf8dbb-16d8-4ae2-a6ec-5c0a7071cd5c.png" width="33%"></a>
 <a href="https://opensea.io/assets/arbitrum/0x9e9a4e58ddc9483d241afc9a028e89bd9b9fa683/68"><img src="https://user-images.githubusercontent.com/56123405/222082963-3cda057e-64da-44e1-a8ef-88e17ad5fd9d.png" width="33%"></a>
 </p>
+
+---
+### If you like my open source work and want to support me then donate here, Thanks! 
+
+ETH/Polygon/Avalanche/etc Address: 0x640Ed06a77eCBc74A34C5B7d927Fc311062f008f
