@@ -1,7 +1,7 @@
-<img src="https://user-images.githubusercontent.com/56123405/177948825-cb6ca0f0-5b86-45eb-b896-a2710c87e47a.png">
+<img src="https://github.com/alymurtazamemon/alymurtazamemon/assets/56123405/f2a9060b-1c37-4ee0-836e-ae1206bcb5de">
 
 <h1 align="center">Hi 👋, My name is Ali Murtaza</h1>
-<h3 align="center">I am a Software Engineer & working as a Full Stack Blockchain Developer.</h3>
+<h3 align="center">I am a Software Engineer & Smart Contracts Security Researcher</h3>
 
 <h3 align="center">Connect with me on:</h3>
 
@@ -23,13 +23,13 @@
 
 <img src="https://user-images.githubusercontent.com/56123405/177257029-97b74749-6158-42db-a3bc-c4f8f80db01c.png" align="right" width=300>
 
-- 👨‍💻 I am currently building on **Ethereum Blockchain**
+- 👨‍💻 My mission is to enhance the security of smart contracts by mitigating vulnerabilities 🐞
 
-- 🌱 I’m currently learning **Web2 & Web3 Technologies**
+- 🌍 I aspire to excel as a leading Smart Contracts Security Researcher 👨‍💻 globally 🌍
 
-- 👯 I will be happy to collaborate on **Blockchain Projects**
+- 👯 I will be happy to collaborate in **Smart Contracts Security Reviews**
 
-- 🤝 I am looking to meet with **Builders**
+- 🤝 I am looking to meet with **Developers & Security Reserchers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alymurtazamemon?tab=repositories](https://github.com/alymurtazamemon?tab=repositories)
 
