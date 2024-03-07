@@ -29,7 +29,7 @@
 
 - 👯 I will be happy to collaborate in **Smart Contracts Security Reviews**
 
-- 🤝 I am looking to meet with **Developers & Security Reserchers**
+- 🤝 I am looking to meet with **Developers & Security Researchers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alymurtazamemon?tab=repositories](https://github.com/alymurtazamemon?tab=repositories)
 
