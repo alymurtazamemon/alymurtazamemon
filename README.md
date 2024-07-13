@@ -31,7 +31,7 @@
 
 - 🤝 I am looking to meet with **Developers & Security Researchers**
 
-- 👨‍💻 All of my projects are available at [https://github.com/alymurtazamemon?tab=repositories](https://github.com/alymurtazamemon?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/alymurtazamemon](https://linktr.ee/alymurtazamemon)
 
 - 💬 Ask me about **Solidity, Security & Auditing, DAOs, DeFi, NFTs, Smart Contracts, Ethers.js, Hardhat, Flutter, Dart.**
 
