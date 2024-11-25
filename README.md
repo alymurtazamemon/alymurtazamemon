@@ -1,7 +1,7 @@
-<img src="https://github.com/alymurtazamemon/alymurtazamemon/assets/56123405/f2a9060b-1c37-4ee0-836e-ae1206bcb5de">
+<img src="https://github.com/user-attachments/assets/e11683db-fcb2-4bfd-a704-1d5c37a14e31">
 
 <h1 align="center">Hi 👋, My name is Ali Murtaza</h1>
-<h3 align="center">I am a Software Engineer & Smart Contracts Security Researcher</h3>
+<h3 align="center">I am a Software Engineer & specializing in Web Engineering</h3>
 
 <h3 align="center">Connect with me on:</h3>
 
@@ -23,19 +23,19 @@
 
 <img src="https://user-images.githubusercontent.com/56123405/177257029-97b74749-6158-42db-a3bc-c4f8f80db01c.png" align="right" width=300>
 
-- 👨‍💻 My mission is to enhance the security of smart contracts by mitigating vulnerabilities 🐞
+- 👨‍💻 My mission is to build secure, scalable, and user-centric Web applications
 
-- 🌍 I aspire to excel as a leading Smart Contracts Security Researcher 👨‍💻 globally 🌍
+- 🌍 I aspire to become a globally 🌍 leading Full Stack Web3 Engineer 👨‍💻
 
-- 👯 I will be happy to collaborate in **Smart Contracts Security Reviews**
+- 👯 I will be happy to collaborate in **Web2 Web3 projects**
 
 - 🤝 I am looking to meet with **Developers & Security Researchers**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/alymurtazamemon](https://linktr.ee/alymurtazamemon)
 
-- 💬 Ask me about **Solidity, Security & Auditing, DAOs, DeFi, NFTs, Smart Contracts, Ethers.js, Hardhat, Flutter, Dart.**
+- 💬 Ask me about **Solidity, JavaScript, TypeScript, Security & Auditing, DAOs, DeFi, NFTs, Smart Contracts, Ethers.js, Hardhat, Flutter, Dart.**
 
-- 📫 How to reach me **alimurtaza-assistant@outlook.com**
+- 📫 You can contact me at **alimurtaza-memon@outlook.com**
 
 <br>
 
@@ -121,11 +121,11 @@ NOTE: Top Languages does not indicate my skill level or anything like that; it's
 <a href="https://github.com/alymurtazamemon?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=alymurtazamemon&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="alymurtazamemon github-readme-streak-stats"/></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <a href="">
         <img src="https://activity-graph.herokuapp.com/graph?username=alymurtazamemon&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="alymurtazamemon activity graph">
     </a>
-</p>
+</p> -->
 
 ---
 
