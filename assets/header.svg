@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="480" viewBox="0 0 1500 480">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="55%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#10182A"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="50%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+    <radialGradient id="glowL" cx="18%" cy="40%" r="38%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowR" cx="86%" cy="58%" r="42%">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.26"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#93C5FD" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1500" height="480" fill="url(#bg)"/>
+  <rect width="1500" height="480" fill="url(#grid)"/>
+  <rect width="1500" height="480" fill="url(#glowL)"/>
+  <rect width="1500" height="480" fill="url(#glowR)"/>
+
+  <g fill="none" stroke="#67E8F9" stroke-opacity="0.18" stroke-width="1.4">
+    <polygon points="1280,78 1322,102 1322,150 1280,174 1238,150 1238,102"/>
+    <polygon points="1368,168 1404,189 1404,231 1368,252 1332,231 1332,189"/>
+    <polygon points="1228,248 1264,269 1264,311 1228,332 1192,311 1192,269"/>
+    <polygon points="1410,300 1438,316 1438,348 1410,364 1382,348 1382,316"/>
+  </g>
+  <polygon points="1280,78 1322,102 1322,150 1280,174 1238,150 1238,102" fill="#22D3EE" fill-opacity="0.08"/>
+  <polygon points="1368,168 1404,189 1404,231 1368,252 1332,231 1332,189" fill="#A78BFA" fill-opacity="0.08"/>
+
+  <rect x="0" y="0" width="8" height="480" fill="url(#neon)"/>
+
+  <text x="92" y="118" fill="#67E8F9" font-family="Menlo, Monaco, Consolas, monospace" font-size="18" letter-spacing="4">&lt; blockchain  backend /&gt;</text>
+  <text x="92" y="198" fill="#F8FAFC" font-family="Helvetica, Arial, sans-serif" font-size="64" font-weight="700">Ali Murtaza Memon</text>
+  <rect x="92" y="226" width="280" height="4" rx="2" fill="url(#neon)"/>
+  <text x="92" y="286" fill="#CBD5E1" font-family="Helvetica, Arial, sans-serif" font-size="26">Building secure, scalable Web3 infrastructure</text>
+  <text x="92" y="326" fill="#94A3B8" font-family="Helvetica, Arial, sans-serif" font-size="22">Smart contracts  -  Python & Node.js backends  -  Protocol security</text>
+
+  <rect x="92" y="368" width="186" height="40" rx="20" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.45"/>
+  <text x="185" y="394" text-anchor="middle" fill="#E2E8F0" font-family="Helvetica, Arial, sans-serif" font-size="16">4+ years experience</text>
+  <rect x="294" y="368" width="168" height="40" rx="20" fill="#0F172A" stroke="#818CF8" stroke-opacity="0.5"/>
+  <text x="378" y="394" text-anchor="middle" fill="#E2E8F0" font-family="Helvetica, Arial, sans-serif" font-size="16">Chemnitz, Germany</text>
+  <rect x="478" y="368" width="214" height="40" rx="20" fill="#0F172A" stroke="#C084FC" stroke-opacity="0.45"/>
+  <text x="585" y="394" text-anchor="middle" fill="#E2E8F0" font-family="Helvetica, Arial, sans-serif" font-size="16">Smart Energy Pay</text>
+</svg>
